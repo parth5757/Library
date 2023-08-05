@@ -1,24 +1,24 @@
 # Library
 this is an library application made on django
 
--mkvirtualenv lms
+- mkvirtualenv lms
 
--workon lms
+- workon lms
 
--asgiref==3.7.2
+- asgiref==3.7.2
 
--Django==4.2.4
+- Django==4.2.4
 
--djangorestframework==3.14.0
+- djangorestframework==3.14.0
 
--djangorestframework-simplejwt==5.2.2
+- djangorestframework-simplejwt==5.2.2
 
--PyJWT==2.8.0
+- PyJWT==2.8.0
 
--pytz==2023.3
+- pytz==2023.3
 
--sqlparse==0.4.4
+- sqlparse==0.4.4
 
--tzdata==2023.3
+- tzdata==2023.3
 
 - django-cors-headers==4.2.0
