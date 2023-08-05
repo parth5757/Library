@@ -20,3 +20,5 @@ this is an library application made on django
 -sqlparse==0.4.4
 
 -tzdata==2023.3
+
+- django-cors-headers==4.2.0
